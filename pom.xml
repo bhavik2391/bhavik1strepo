@@ -37,7 +37,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>HelloWorld</mainClass>
+                            <mainClass>helloworld</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
