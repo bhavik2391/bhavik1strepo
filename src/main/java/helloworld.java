@@ -15,6 +15,8 @@ public class helloworld {
 
 	public void greet() {
 		System.out.println("Hello, World!");
+		System.out.println("Hello, World from Bhavik!");
+		System.out.println("Hello, World from Bhavik Chauhan...!");
 	}
 
 	public static void main(String[] args) {
